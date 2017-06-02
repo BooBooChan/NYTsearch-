@@ -1,0 +1,24 @@
+.jumbotron {
+	background-color: #000080;
+	color: white;
+
+}
+
+.main-heading {
+	background-color: #000080;
+	color: white;
+
+}
+
+.news-icon {
+	height: 15px;
+	width: 15px;
+
+}
+
+#icon-header {
+	height: 65px;
+	width: 65px;
+	margin: 0;
+
+}
